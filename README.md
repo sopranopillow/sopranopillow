@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sopranopillow
 - 👀 I’m interested in Web development with React, video game development and Graphics.
-- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: through here!
 
 <!---
