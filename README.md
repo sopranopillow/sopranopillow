@@ -10,9 +10,9 @@ I work in the Fluent UI team developing components with the Fluent design system
 
 ### Interests
 
-My main intersts are:
+My main interests are:
 
-* React: Since it's part of my daily work and has been a big area I've invested time in. I'm particulary interested in Server Side Rendering, React Server Components, and performance.
+* React: Since it's part of my daily work and has been a big area I've invested time in. I'm particularly interested in Server Side Rendering, React Server Components, and performance.
 * Game dev: I've done a few projects with GameMaker, Unity, and Monogame.
 * ML + DL: I've done projects with ML and DL in the past, so this is always an interesting area to work on.
 * Anything: I'm always open to work on something new!
